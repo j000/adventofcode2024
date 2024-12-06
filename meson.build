@@ -22,6 +22,7 @@ endif
 
 
 subdir('day1')
+subdir('day2')
 
 
 # vim: set et ts=2 sw=2:
